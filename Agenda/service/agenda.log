@@ -1,0 +1,195 @@
+[Outputs]2019/10/28 10:11:10 exit successfully!
+[Commands]2019/10/28 10:22:48 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:22:48 Login successfully!
+[Commands]2019/10/28 10:22:58 Agenda exit
+[Outputs]2019/10/28 10:22:58 exit successfully!
+[Commands]2019/10/28 10:23:21 Agenda register -u xi -p 123123qqq -m 123123 -t 11111333
+[Outputs]2019/10/28 10:23:21 Register successfully!
+[Commands]2019/10/28 10:23:29 Agenda delete
+[Outputs]2019/10/28 10:23:29 You should login first!
+[Commands]2019/10/28 10:23:40 Agenda login -u xi -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:23:40 Login successfully!
+[Commands]2019/10/28 10:23:48 Agenda delete
+[Commands]2019/10/28 10:23:48 Agenda delete -u xi -p 123123qqq
+[Outputs]2019/10/28 10:23:48 delete success!
+[Commands]2019/10/28 10:24:28 Agenda register -u xi -p 123123qqq -m 123123 -t 11111333
+[Outputs]2019/10/28 10:24:28 Register successfully!
+[Commands]2019/10/28 10:24:33 Agenda login -u xi -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:24:33 Login successfully!
+[Commands]2019/10/28 10:24:36 Agenda delete
+[Commands]2019/10/28 10:24:36 Agenda delete -u xi -p 123123qqq
+[Outputs]2019/10/28 10:24:36 delete success!
+[Commands]2019/10/28 10:24:48 Agenda register -u xi -p 123123qqq -m 123123 -t 11111333
+[Outputs]2019/10/28 10:24:48 Register successfully!
+[Commands]2019/10/28 10:24:51 Agenda login -u xi -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:24:51 Login successfully!
+[Commands]2019/10/28 10:24:54 Agenda delete
+[Outputs]2019/10/28 10:24:54 delete success!
+[Commands]2019/10/28 10:25:00 Agenda query
+[Outputs]2019/10/28 10:25:00 -------------------
+[Outputs]2019/10/28 10:25:00 Username:yang1
+[Outputs]2019/10/28 10:25:00 Mail:asdasd
+[Outputs]2019/10/28 10:25:00 Telephone:sssss
+[Outputs]2019/10/28 10:25:00 -------------------
+[Outputs]2019/10/28 10:25:00 -------------------
+[Outputs]2019/10/28 10:25:00 Username:yang
+[Outputs]2019/10/28 10:25:00 Mail:asdasd
+[Outputs]2019/10/28 10:25:00 Telephone:sssss
+[Outputs]2019/10/28 10:25:00 -------------------
+[Outputs]2019/10/28 10:25:00 -------------------
+[Outputs]2019/10/28 10:25:00 Username:yangzetao
+[Outputs]2019/10/28 10:25:00 Mail:asdas
+[Outputs]2019/10/28 10:25:00 Telephone:sadasda
+[Outputs]2019/10/28 10:25:00 -------------------
+[Commands]2019/10/28 10:33:19 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:33:31 Agenda query
+[Outputs]2019/10/28 10:33:31 -------------------
+[Outputs]2019/10/28 10:33:31 Username:yang1
+[Outputs]2019/10/28 10:33:31 Mail:asdasd
+[Outputs]2019/10/28 10:33:31 Telephone:sssss
+[Outputs]2019/10/28 10:33:31 -------------------
+[Outputs]2019/10/28 10:33:31 -------------------
+[Outputs]2019/10/28 10:33:31 Username:yang
+[Outputs]2019/10/28 10:33:31 Mail:asdasd
+[Outputs]2019/10/28 10:33:31 Telephone:sssss
+[Outputs]2019/10/28 10:33:31 -------------------
+[Outputs]2019/10/28 10:33:31 -------------------
+[Outputs]2019/10/28 10:33:31 Username:yangzetao
+[Outputs]2019/10/28 10:33:31 Mail:asdas
+[Outputs]2019/10/28 10:33:31 Telephone:sadasda
+[Outputs]2019/10/28 10:33:31 -------------------
+[Commands]2019/10/28 10:33:43 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:34:39 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:38:30 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:40:26 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:40:45 Agenda login -u yang -p 123213qqq -m  -t 
+[Commands]2019/10/28 10:40:56 Agenda login -u yang -p 123213qqq -m  -t 
+[Outputs]2019/10/28 10:40:56 Login failed!
+[Commands]2019/10/28 10:41:37 Agenda login -u yang -p 123213qqq -m  -t 
+[Outputs]2019/10/28 10:41:37 Login failed!
+[Commands]2019/10/28 10:42:37 Agenda login -u yang -p 123213qqq -m  -t 
+[Outputs]2019/10/28 10:42:37 Login failed!
+[Commands]2019/10/28 10:44:31 Agenda login -u yang -p 123213qqq -m  -t 
+[Outputs]2019/10/28 10:44:31 Login failed!
+[Commands]2019/10/28 10:44:35 Agenda login -u yang -p 123213qqq -m  -t 
+[Outputs]2019/10/28 10:44:35 Login failed!
+[Commands]2019/10/28 10:44:57 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:44:57 Login successfully!
+[Commands]2019/10/28 10:45:10 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:45:10 You have logged in.
+[Commands]2019/10/28 10:45:14 Agenda exit
+[Outputs]2019/10/28 10:45:14 exit successfully!
+[Commands]2019/10/28 10:45:16 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:45:16 Login successfully!
+[Commands]2019/10/28 10:46:49 Agenda exit
+[Commands]2019/10/28 10:46:50 Agenda exit
+[Commands]2019/10/28 10:46:51 Agenda exit
+[Commands]2019/10/28 10:46:59 Agenda exit
+[Commands]2019/10/28 10:47:33 Agenda exit
+[Outputs]2019/10/28 10:47:33 exit successfully!
+[Commands]2019/10/28 10:47:33 Agenda exit
+[Commands]2019/10/28 10:47:34 Agenda exit
+[Commands]2019/10/28 10:47:39 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:47:39 Login successfully!
+[Commands]2019/10/28 10:47:41 Agenda exit
+[Outputs]2019/10/28 10:47:41 exit successfully!
+[Commands]2019/10/28 10:47:42 Agenda exit
+[Commands]2019/10/28 10:47:44 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:47:44 Login successfully!
+[Commands]2019/10/28 10:47:45 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:47:45 You have logged in.
+[Commands]2019/10/28 10:47:45 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 10:47:45 You have logged in.
+[Commands]2019/10/28 10:54:16 Agenda register -u yang -p 123123qqq -m asdasd -t 1232111ss
+[Outputs]2019/10/28 10:54:16 Username has existed!
+[Commands]2019/10/28 10:54:24 Agenda register -u yang5 -p 123123qqq -m asdasd -t 1232111ss
+[Outputs]2019/10/28 10:54:24 Register successfully!
+[Commands]2019/10/28 11:01:28 Agenda register -u yang5 -p 123123qqq -m asdasd -t 1232111
+[Outputs]2019/10/28 11:01:28 Username has existed!
+[Commands]2019/10/28 11:01:34 Agenda query
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 Username:yang1
+[Outputs]2019/10/28 11:01:34 Mail:asdasd
+[Outputs]2019/10/28 11:01:34 Telephone:sssss
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 Username:yang
+[Outputs]2019/10/28 11:01:34 Mail:asdasd
+[Outputs]2019/10/28 11:01:34 Telephone:sssss
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 Username:yangzetao
+[Outputs]2019/10/28 11:01:34 Mail:asdas
+[Outputs]2019/10/28 11:01:34 Telephone:sadasda
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 -------------------
+[Outputs]2019/10/28 11:01:34 Username:yang5
+[Outputs]2019/10/28 11:01:34 Mail:asdasd
+[Outputs]2019/10/28 11:01:34 Telephone:1232111ss
+[Outputs]2019/10/28 11:01:34 -------------------
+[Commands]2019/10/28 11:05:04 Agenda login -u yang -p 123123qqq -m  -t 
+[Outputs]2019/10/28 11:05:04 You have logged in.
+[Commands]2019/10/28 11:05:16 Agenda delete
+[Outputs]2019/10/28 11:05:16 delete success!
+[Commands]2019/10/28 11:05:56 Agenda login -u yang1 -p 123123qqq -m  -t 
+[Outputs]2019/10/28 11:05:56 Login successfully!
+[Commands]2019/10/28 11:06:01 Agenda delete
+[Outputs]2019/10/28 11:06:01 delete success!
+[Commands]2019/10/28 15:23:58 Agenda register -u yangg -p 123123qqq -m 12332222@qq. -t 1802747979
+[Outputs]2019/10/28 15:23:58 mail format error.
+[Commands]2019/10/28 15:24:02 Agenda register -u yangg -p 123123qqq -m 12332222@qq.com -t 1802747979
+[Outputs]2019/10/28 15:24:02 telephone format error.
+[Commands]2019/10/28 15:24:05 Agenda register -u yangg -p 123123qqq -m 12332222@qq.com -t 18027479799
+[Outputs]2019/10/28 15:24:05 Register successfully!
+[Commands]2019/10/28 15:24:16 Agenda register -u yangg -p 123123qqq -m 12332222@qq.com -t 180274797a9
+[Outputs]2019/10/28 15:24:16 telephone format error.
+[Commands]2019/10/28 15:24:19 Agenda register -u yangg -p 123123qqq -m 12332222@qq.com -t 180274797999
+[Outputs]2019/10/28 15:24:19 telephone format error.
+[Commands]2019/10/28 15:24:25 Agenda register -u yangg -p 123123qqq -m 12332222qq.com -t 18027479799
+[Outputs]2019/10/28 15:24:25 mail format error.
+[Commands]2019/10/28 15:24:31 Agenda register -u yangg -p 123123qqq -m 12332222@qq.cm -t 18027479799
+[Outputs]2019/10/28 15:24:31 Username has existed!
+[Commands]2019/10/28 15:34:35 Agenda register -u sysu -p 123QWE -m  -t 
+[Outputs]2019/10/28 15:34:35 mail format error.
+[Commands]2019/10/28 15:34:52 Agenda register -u sysu -p 123QWE -m  -t 12345678999
+[Outputs]2019/10/28 15:34:52 mail format error.
+[Commands]2019/10/28 15:35:00 Agenda register -u sysu -p 123QWE -m  -t 12345678999
+[Outputs]2019/10/28 15:35:00 mail format error.
+[Commands]2019/10/28 15:35:10 Agenda register -u sysu -p 123QWE -m 25555444@qq.com -t 12345678999
+[Outputs]2019/10/28 15:35:10 Register successfully!
+[Commands]2019/10/28 15:36:37 Agenda login -u sysu -p 123QWE -m  -t 
+[Outputs]2019/10/28 15:36:37 Login successfully!
+[Commands]2019/10/28 15:38:00 Agenda exit
+[Outputs]2019/10/28 15:38:00 exit successfully!
+[Commands]2019/10/28 15:38:31 Agenda login -u sysu -p 123QWE -m  -t 
+[Outputs]2019/10/28 15:38:31 Login successfully!
+[Commands]2019/10/28 15:38:35 Agenda delete
+[Outputs]2019/10/28 15:38:35 delete success!
+[Commands]2019/10/28 15:40:26 Agenda register -u sysu -p 123QWE -m 25555444@qq.com -t 12345678999
+[Outputs]2019/10/28 15:40:26 Register successfully!
+[Commands]2019/10/28 15:40:29 Agenda login -u sysu -p 123QWE -m  -t 
+[Outputs]2019/10/28 15:40:29 Login successfully!
+[Commands]2019/10/28 15:40:31 Agenda delete
+[Outputs]2019/10/28 15:40:31 delete success!
+[Commands]2019/10/28 15:40:39 Agenda register -u sysu -p 123QWE -m 25555444@qq.com -t 12345678999
+[Outputs]2019/10/28 15:40:39 Register successfully!
+[Commands]2019/10/28 15:40:41 Agenda login -u sysu -p 123QWE -m  -t 
+[Outputs]2019/10/28 15:40:41 Login successfully!
+[Commands]2019/10/28 15:40:46 Agenda delete
+[Outputs]2019/10/28 15:40:46 delete success!
+[Commands]2019/10/28 15:41:36 Agenda query
+[Outputs]2019/10/28 15:41:36 -------------------
+[Outputs]2019/10/28 15:41:36 Username:yangzetao
+[Outputs]2019/10/28 15:41:36 Mail:asdas
+[Outputs]2019/10/28 15:41:36 Telephone:sadasda
+[Outputs]2019/10/28 15:41:36 -------------------
+[Outputs]2019/10/28 15:41:36 -------------------
+[Outputs]2019/10/28 15:41:36 Username:yang5
+[Outputs]2019/10/28 15:41:36 Mail:asdasd
+[Outputs]2019/10/28 15:41:36 Telephone:1232111ss
+[Outputs]2019/10/28 15:41:36 -------------------
+[Outputs]2019/10/28 15:41:36 -------------------
+[Outputs]2019/10/28 15:41:36 Username:yangg
+[Outputs]2019/10/28 15:41:36 Mail:12332222@qq.com
+[Outputs]2019/10/28 15:41:36 Telephone:18027479799
+[Outputs]2019/10/28 15:41:36 -------------------
